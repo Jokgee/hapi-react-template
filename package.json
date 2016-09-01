@@ -2,9 +2,6 @@
   "name": "hapi-react-template",
   "version": "0.0.0",
   "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
   "dependencies": {
     "hapi": "^15.0.3",
     "hapi-react-views": "^9.1.1",
