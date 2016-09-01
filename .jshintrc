@@ -1,0 +1,11 @@
+{
+  "esversion": 6,
+  "predef" : [
+    "console",
+    "document",
+    "window"
+  ],
+  "globalstrict": true,
+  "curly": true,
+  "node": true
+}
